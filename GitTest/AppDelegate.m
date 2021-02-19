@@ -61,6 +61,8 @@
     NSLog(@"远程修改1");
     NSLog(@"远程修改2");
     
+    NSLog(@"远程修改66");
+    NSLog(@"远程修改77");
     return YES;
 }
 

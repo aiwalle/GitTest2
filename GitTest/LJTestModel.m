@@ -8,5 +8,7 @@
 #import "LJTestModel.h"
 
 @implementation LJTestModel
-
+- (void)test {
+    NSLog(@"远程修改6");
+}
 @end

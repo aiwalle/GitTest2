@@ -8,5 +8,7 @@
 #import "LJCarFive.h"
 
 @implementation LJCarFive
-
+- (void)test {
+    NSLog(@"远程修改4");
+}
 @end
